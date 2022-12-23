@@ -19,7 +19,7 @@
 
 - /findphd  :  restful api 服务应用，(Ninja开发)
     - / 提供了用户注册，邮箱验证，分页等api，开箱即用。
-- /spider   :  爬虫模块，
+- /spider   :  任务管理模块
     - /spiders ： 存放要运行的所有任务
         - 项目随带了 示例文件，三个职位网站爬虫，一个调用google翻译api的翻译任务
         - 三个爬虫，一个是bs4的基础爬虫，两个是selenium的爬虫
