@@ -3,7 +3,7 @@
     Spider-api
   </h1>
   <h3 align="center">
-     A web spider manager and base api app backend, based django Ninja
+     A web spider manager and base api app backend, django Ninja based
   </h3>
 
 </div>
